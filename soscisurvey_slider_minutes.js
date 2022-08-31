@@ -1,4 +1,4 @@
-//Allows to show hh:mm format on a slider in SosciSurvey
+//Allows to show minutes and hours (hh:mm) format on a slider scale (VAS) in SosciSurvey, e.g. to assess media usage per day
 //more info in sosci-help: https://www.soscisurvey.de/help/doku.php/en:create:questions:slider / https://www.soscisurvey.de/help/doku.php/de:create:questions:slider#anzeige_der_aktuellen_position
 
 //IMPORTANT: Create slider and input a VALUE RANGE from 1 to 86401
